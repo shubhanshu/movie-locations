@@ -5,8 +5,8 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/shubhanshu/go-movie-locations/bootstrap"
-	"github.com/shubhanshu/go-movie-locations/types"
+	"github.com/shubhanshu/movie-locations/bootstrap"
+	"github.com/shubhanshu/movie-locations/types"
 	"github.com/shubhanshu/tmdb"
 	"googlemaps.github.io/maps"
 	"log"

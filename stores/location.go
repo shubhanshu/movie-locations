@@ -3,7 +3,7 @@ package stores
 
 import (
 	"github.com/hailocab/go-geoindex"
-	"github.com/shubhanshu/go-movie-locations/types"
+	"github.com/shubhanshu/movie-locations/types"
 	"log"
 	"strconv"
 )

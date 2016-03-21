@@ -1,7 +1,7 @@
 // In-memory index of all movies and locations
 package stores
 
-import "github.com/shubhanshu/go-movie-locations/types"
+import "github.com/shubhanshu/movie-locations/types"
 
 type MovieStore struct {
 	cache map[int]types.Movie

@@ -2,8 +2,8 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/shubhanshu/go-movie-locations/stores"
-	"github.com/shubhanshu/go-movie-locations/types"
+	"github.com/shubhanshu/movie-locations/stores"
+	"github.com/shubhanshu/movie-locations/types"
 	"log"
 	"net/http"
 	"os"
